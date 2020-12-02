@@ -10,7 +10,7 @@ The App Center SDK modules are already integrated within the application. Simply
 
 | Build Service   | Status                                                                                                                                                                                                                                                           |
 | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| App Center      | [![Build status](https://build.appcenter.ms/v0.1/apps/60df650c-1860-46ad-a0af-fdc190596377/branches/master/badge)](https://appcenter.ms)                                                                                                                         |
+| App Center      | [![Build status](https://build.appcenter.ms/v0.1/apps/c7d224ff-3b6b-4edd-8ab6-16f3b3598527/branches/main/badge)](https://appcenter.ms)                                                                                                                         |
 | Azure Pipelines | [![Build Status](https://dev.azure.com/msmobilecenter/Mobile-Center/_apis/build/status/sampleapp/microsoft.appcenter-sampleapp-android?branchName=master)](https://dev.azure.com/msmobilecenter/Mobile-Center/_build/latest?definitionId=3725&branchName=master) |
 
 ## Tutorials
